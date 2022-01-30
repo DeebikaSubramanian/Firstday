@@ -1,0 +1,17 @@
+Difference between http and https
+
+NO:1
+	http stands for hypertext transfer protocol.
+	https stands for hypertext transfer protocol secure
+
+NO 2:
+
+	http sends a plaintext request and response across the internet
+	https sends a encrypted request and response
+
+No 3:
+
+	In http, plaintext can be read by anyone monitoring these plaintext
+	In https,as it is encrypted an attacker can read see a series of random characters
+
+so https is more secure than http

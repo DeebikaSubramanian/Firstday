@@ -1,0 +1,50 @@
+Javascript object and its representation
+
+ “A JavaScript object is a collection of named values having state and behavior (properties and method)”.
+
+For example: student, car, pen, bike, Personal Computer , Washing Machine etc.
+
+Take the case of student
+
+All name have the same properties, but the property values differ from student to student. All students have the same methods, but the methods are performed at different times.
+
+1)Objects:
+
+The values are written as name:value pairs (name and value separated by a colon).
+
+Syntax:
+
+var <object-name> = {key1: value1, key2: value2,... keyN: valueN};
+
+So, conclusion and definition for JS objects is “JavaScript objects are containers for named values”.
+
+Objects are variables too. But objects can contain many values.
+
+The following code assigns many values to a variable named student:
+
+var student = {Name: “Karthish”, Age:6, gender:"Male")
+
+2)Object propertries:
+
+
+The name:values pairs (in JavaScript objects) are called properties.
+
+Here Name, age and gender are key, Karthish,6, male are its values respectively.
+
+The object properties can be different primitive values, other objects and functions.
+
+Properties can usually be changed, added, and deleted, but some are read only.
+
+
+3)Object Methods
+
+	An object method is an object property containing a function definition.
+
+i.e.,
+
+	Let’s assume to start the student there will be a marking functionality.
+
+		function mark(m1,m2,m3)
+		{
+		}
+
